@@ -43,3 +43,4 @@ $RECYCLE.BIN/
 *.lnk
 .idea
 *.DS_Store
+/target/
